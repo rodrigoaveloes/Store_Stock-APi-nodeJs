@@ -1,0 +1,7 @@
+CRUD - estoque produtos 
+
+ POST   /adicionarproduto  - Criar um novo produto OK = CREATEPRODUCT
+ GET    /produtos          - Listar todos os produtos OK = ALLPRODUCTS
+ GET    /produto/123       - pegar um unico produto OK = GETPRODUCT    
+ PUT    /produto/123       - Atualizar produto OK = UPDATEPRODUCT
+ DELETE /produto/123       - Deletar produto   OK = DELETEPRODUCT
