@@ -47,7 +47,7 @@ Inicie o servidor
 
 ```bash
 
-  Repositorio FrontEnd 👉 https://github.com/rodrigoaveloes/Store_Stock-FrontEnd
+  Repositorio FrontEnd 👉 https://github.com/rodrigoaveloes/Store_Stock-FrontEnd_reactJS
 
 ```
 
