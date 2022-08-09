@@ -13,9 +13,9 @@ Link do repositório do FrontEnd 👉 https://github.com/rodrigoaveloes/Store_St
 Instale Store_Stock-Backend com npm
 
 ```bash
-  npm install Store_Stock-Backend
+  npm install Store_Stock-APi-nodeJs
 
-  cd Store_Stock-Backend
+  cd Store_Stock-APi-nodeJs
 
 ```
     
@@ -30,7 +30,7 @@ Clone o projeto
 Entre no diretório do projeto
 
 ```bash
-  cd Store_Stock-Backend
+  cd Store_Stock-APi-nodeJs
 ```
 
 Instale as dependências
