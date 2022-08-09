@@ -3,7 +3,7 @@
 
 Criei um sistema de estoque de uma loja, em que é possivel adicionar  um novo produto , atualizar e deletar.
 consumindo dados através da api que construi em NodeJs com ExpressJs.
-Link do repositório do FrontEnd 👉 https://github.com/rodrigoaveloes/Store_Stock-FrontEnd
+Link do repositório do FrontEnd 👉 https://github.com/rodrigoaveloes/Store_Stock-FrontEnd_reactJS 
 
 
 
