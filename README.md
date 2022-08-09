@@ -24,7 +24,7 @@ Instale Store_Stock-Backend com npm
 Clone o projeto
 
 ```bash
-  git clone https://github.com/rodrigoaveloes/Store_Stock-Backend
+  git clone https://github.com/rodrigoaveloes/Store_Stock-APi-nodeJs
 ```
 
 Entre no diretório do projeto
